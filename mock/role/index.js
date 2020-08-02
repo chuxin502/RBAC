@@ -84,6 +84,7 @@ module.exports = [
     }
   },
 
+
   // delete role
   {
     url: '/vue-element-admin/role/[A-Za-z0-9]',
